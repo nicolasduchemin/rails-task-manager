@@ -1,3 +1,2 @@
-class TaskController < ApplicationRecord
-
+class Task < ActiveRecord::Base
 end
